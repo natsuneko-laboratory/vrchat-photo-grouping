@@ -6,7 +6,7 @@ C# Scripts for grouping VRChat Photos by Date and Time.
 
 You need to have one of the following packages installed:
 
-- LINQPad - https://linqpad.com/
+- LINQPad - https://www.linqpad.net/
 - .NET CLI - https://dotnet.microsoft.com/download/dotnet-core/
   - dotnet-script - `dotnet tool install -g dotnet-script`
 
